@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://saart.blacktholstrup.dk/dk/product/</loc>
+    <loc>https://saart.eu/dk/product/</loc>
     <lastmod>2022-06-30T22:57:26+02:00</lastmod>
   </url><url>
-    <loc>https://saart.blacktholstrup.dk/dk/product/ribs2021/</loc>
+    <loc>https://saart.eu/dk/product/ribs2021/</loc>
     <lastmod>2022-06-30T22:57:26+02:00</lastmod>
   </url><url>
-    <loc>https://saart.blacktholstrup.dk/dk/</loc>
+    <loc>https://saart.eu/dk/</loc>
     <lastmod>2022-06-30T22:57:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://saart.blacktholstrup.dk/en/"
+                href="https://saart.eu/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://saart.blacktholstrup.dk/da/"
+                href="https://saart.eu/da/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dk"
-                href="https://saart.blacktholstrup.dk/dk/"
+                href="https://saart.eu/dk/"
                 />
   </url><url>
-    <loc>https://saart.blacktholstrup.dk/dk/product/rabarber2021/</loc>
+    <loc>https://saart.eu/dk/product/rabarber2021/</loc>
     <lastmod>2022-06-30T22:20:04+02:00</lastmod>
   </url><url>
-    <loc>https://saart.blacktholstrup.dk/dk/categories/</loc>
+    <loc>https://saart.eu/dk/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://saart.blacktholstrup.dk/en/categories/"
+                href="https://saart.eu/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://saart.blacktholstrup.dk/da/categories/"
+                href="https://saart.eu/da/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dk"
-                href="https://saart.blacktholstrup.dk/dk/categories/"
+                href="https://saart.eu/dk/categories/"
                 />
   </url><url>
-    <loc>https://saart.blacktholstrup.dk/dk/tags/</loc>
+    <loc>https://saart.eu/dk/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://saart.blacktholstrup.dk/en/tags/"
+                href="https://saart.eu/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://saart.blacktholstrup.dk/da/tags/"
+                href="https://saart.eu/da/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dk"
-                href="https://saart.blacktholstrup.dk/dk/tags/"
+                href="https://saart.eu/dk/tags/"
                 />
   </url>
 </urlset>

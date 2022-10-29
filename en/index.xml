@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saart fine wine</title>
-    <link>https://saart.blacktholstrup.dk/en/</link>
+    <link>https://saart.eu/en/</link>
     <description>Recent content on Saart fine wine</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://saart.blacktholstrup.dk/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://saart.eu/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://saart.blacktholstrup.dk/en/checkout/placeholder/</link>
+      <link>https://saart.eu/en/checkout/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saart.blacktholstrup.dk/en/checkout/placeholder/</guid>
+      <guid>https://saart.eu/en/checkout/placeholder/</guid>
       <description></description>
     </item>
     

@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://saart.blacktholstrup.dk/en/checkout/placeholder/</loc>
+    <loc>https://saart.eu/en/checkout/placeholder/</loc>
   </url><url>
-    <loc>https://saart.blacktholstrup.dk/en/categories/</loc>
+    <loc>https://saart.eu/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="dk"
-                href="https://saart.blacktholstrup.dk/dk/categories/"
+                href="https://saart.eu/dk/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://saart.blacktholstrup.dk/da/categories/"
+                href="https://saart.eu/da/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://saart.blacktholstrup.dk/en/categories/"
+                href="https://saart.eu/en/categories/"
                 />
   </url><url>
-    <loc>https://saart.blacktholstrup.dk/en/checkout/</loc>
+    <loc>https://saart.eu/en/checkout/</loc>
   </url><url>
-    <loc>https://saart.blacktholstrup.dk/en/</loc>
+    <loc>https://saart.eu/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="dk"
-                href="https://saart.blacktholstrup.dk/dk/"
+                href="https://saart.eu/dk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://saart.blacktholstrup.dk/da/"
+                href="https://saart.eu/da/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://saart.blacktholstrup.dk/en/"
+                href="https://saart.eu/en/"
                 />
   </url><url>
-    <loc>https://saart.blacktholstrup.dk/en/tags/</loc>
+    <loc>https://saart.eu/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="dk"
-                href="https://saart.blacktholstrup.dk/dk/tags/"
+                href="https://saart.eu/dk/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://saart.blacktholstrup.dk/da/tags/"
+                href="https://saart.eu/da/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://saart.blacktholstrup.dk/en/tags/"
+                href="https://saart.eu/en/tags/"
                 />
   </url>
 </urlset>
