@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Saart fine wine</title>
+    <link>https://saart.blacktholstrup.dk/en/product/</link>
+    <description>Recent content in Products on Saart fine wine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 30 Jun 2022 22:57:20 +0200</lastBuildDate><atom:link href="https://saart.blacktholstrup.dk/en/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ribs2021</title>
+      <link>https://saart.blacktholstrup.dk/en/product/ribs2021/</link>
+      <pubDate>Thu, 30 Jun 2022 22:57:20 +0200</pubDate>
+      
+      <guid>https://saart.blacktholstrup.dk/en/product/ribs2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabarber 2020</title>
+      <link>https://saart.blacktholstrup.dk/en/product/rabarber2020/</link>
+      <pubDate>Wed, 16 Feb 2022 21:47:12 +0100</pubDate>
+      
+      <guid>https://saart.blacktholstrup.dk/en/product/rabarber2020/</guid>
+      <description>A wine of a verry special vintage, the first serious wine from the Saart winery.
+Vinen er skabt med frugt fra egen have og i et meget begrænset oplag.
+Vi fik en lækker mousserende rabarber vin på bordet og blod på tanden.</description>
+    </item>
+    
+    <item>
+      <title>Stikkelsbær 2021</title>
+      <link>https://saart.blacktholstrup.dk/en/product/stikkelsb%C3%A6r2021/</link>
+      <pubDate>Wed, 16 Feb 2022 21:46:43 +0100</pubDate>
+      
+      <guid>https://saart.blacktholstrup.dk/en/product/stikkelsb%C3%A6r2021/</guid>
+      <description>Vores vin her er en ganske særlig, vi har leget med processen og udfordret egne evner.
+Vinen er skabt med frugt fra egen have og i et meget begrænset oplag, den er tør og med en modig syre.
+En Stikkelsbærvin der bobler i glasset og sprudler i munden.</description>
+    </item>
+    
+    <item>
+      <title>Hindbær 2021</title>
+      <link>https://saart.blacktholstrup.dk/en/product/hindb%C3%A6r2021/</link>
+      <pubDate>Tue, 16 Feb 2021 21:45:54 +0100</pubDate>
+      
+      <guid>https://saart.blacktholstrup.dk/en/product/hindb%C3%A6r2021/</guid>
+      <description>Vores vin her er en ganske særlig årgang da det er den første gang vi skalerede processen mærkbart op.
+Vinen er skabt med nøje udvalgt frugt fra plantager og i vores hidtil største oplag.
+Vi leverer en lækker mousserende rabarber vin på bordet og terressen.</description>
+    </item>
+    
+  </channel>
+</rss>
